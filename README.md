@@ -4,6 +4,6 @@ If you are reading this, thank you very much for taking the time to attend my pr
 
 For a description of each input and output file in this repository, please see **'/T21_Celiac_MultiOmics_Fig1/README/MEGA_041822_README_CeliacGRS_Fig1_InOut_Manifest_v0.3_JRS.xlsx'. **
 
-Due to the Crnic research team's preference, this project was initially organized and documented using a Microsoft Sharepoint folder and Microsoft Teams. Files in this demo repository represent how I delivered the project files to Dr. Stahl in April 2022 before starting at Illumina. If I were doing a similar project today, I would improve this documentation by using an R Project connected to a Git repo, the renv package, and the here package.
+Due to the Crnic research team's preference, this project was initially organized and documented using a Microsoft Sharepoint folder and Microsoft Teams. Files in this demo repository represent how I delivered the project files to Dr. Stahl in April 2022 before starting at Illumina. If I were doing a similar project today, I would improve the reproducibility of my work by using an R Project connected to Git, the renv package, and the here package.
 
 For any questions about this research or my contributions to it, please don't hesitate to reach out at jessica.rose.shaw@gmail.com or 815-975-7515.
