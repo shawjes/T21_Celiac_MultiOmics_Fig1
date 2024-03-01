@@ -1,6 +1,6 @@
 # Demo_T21_Celiac_GRS
  
-If you are reading this, thank you very much for taking the time to attend my presentation on Wednesday. This repository contains my code, output, and documentation for the portion of research I presented to you (Figure 1 of the Stahl et al., 2022 manuscript, https://www.medrxiv.org/content/10.1101/2022.09.27.22280436v1.full.pdf).
+If you are reading this, thank you very much for taking the time to attend my presentation on Wednesday. This repository contains copies of all my code, output, and documentation for the portion of research I presented to you (Figure 1 of the Stahl et al., 2022 manuscript, https://www.medrxiv.org/content/10.1101/2022.09.27.22280436v1.full.pdf).
 
 For a description of each input and output file for Figure 1, please see **'/Demo_T21_Celiac_MultiOmics_Fig1/README/MEGA_041822_README_CeliacGRS_Fig1_InOut_Manifest_v0.3_JRS.xlsx'. **
 
